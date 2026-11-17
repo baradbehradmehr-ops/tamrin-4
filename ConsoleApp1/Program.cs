@@ -1,4 +1,5 @@
-﻿try
+﻿// in tamrin mrbvt bh bharad mhar ast
+try
 {
     Console.Clear();
     Console.WriteLine("tadad saat kar kargr ra vard kn");
